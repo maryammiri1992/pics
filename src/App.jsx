@@ -16,7 +16,7 @@ function App() {
             className="base"
             width="170"
             height="179"
-            alt="123"
+            alt="123456"
           />
           <img src={reactLogo} className="framework" alt="React logo" />
           <img src={viteLogo} className="vite" alt="Vite logo" />
